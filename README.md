@@ -2,7 +2,7 @@
 
 CheckNatType_GUI is a graphical user interface (GUI) application developed in Go using the Fyne framework to detect the user's NAT type. The program allows you to select from built-in STUN servers or input custom STUN server addresses for detection.
 
-**Languages: [English](#english) | [简体中文](https://github.com/zhiyunhai/CheckNatType_GUI/edit/main/README_zh_CN.md)**
+**Languages: [English](#english) | [简体中文](https://github.com/zhiyunhai/CheckNatType_GUI/main/README_zh_CN.md)**
 
 ---
 
