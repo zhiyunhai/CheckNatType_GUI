@@ -50,7 +50,7 @@ CheckNatType_GUI 是一个使用 Go 语言和 Fyne 框架开发的图形用户�
 
 ## 下载与安装
 
-你可以从 GitHub 的 [Releases 页面](https://github.com/YOUR_USERNAME/CheckNatType_GUI/releases) 下载对应操作系统和架构的二进制文件：
+你可以从 GitHub 的 [Releases 页面](https://github.com/zhiyunhai/CheckNatType_GUI/releases) 下载对应操作系统和架构的二进制文件：
 
 - Windows 64位: `CheckNatType_GUI_windows_amd64.exe`
 - Windows 32位: `CheckNatType_GUI_windows_386.exe`
