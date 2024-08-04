@@ -1,2 +1,2 @@
-# checkStun_GUI
+# CheckNatType_GUI
 GUI program that checks your current network NAT type.
