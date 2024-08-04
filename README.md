@@ -56,7 +56,7 @@ The program includes the following STUN servers for users to choose from:
 
 ## Download and Install
 
-You can download the binary files for your operating system and architecture from the [Releases page](https://github.com/YOUR_USERNAME/CheckNatType_GUI/releases) on GitHub:
+You can download the binary files for your operating system and architecture from the [Releases page](https://github.com/zhiyunhai/CheckNatType_GUI/releases) on GitHub:
 
 - Windows 64-bit: `CheckNatType_GUI_windows_amd64.exe`
 - Windows 32-bit: `CheckNatType_GUI_windows_386.exe`
